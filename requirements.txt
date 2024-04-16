@@ -1,0 +1,8 @@
+pymongo[srv]
+from-root
+scikit-learn
+numpy
+pandas
+python-dotenv
+black
+-e .
