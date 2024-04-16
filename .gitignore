@@ -127,6 +127,8 @@ venv/
 ENV/
 env.bak/
 venv.bak/
+sensor_cenv/
+*.dll
 
 # Spyder project settings
 .spyderproject
