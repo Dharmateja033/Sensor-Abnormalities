@@ -5,4 +5,10 @@ numpy
 pandas
 python-dotenv
 black
+dill
+imblearn
+xgboost
+scipy
+evidently
+PyYAML
 -e .
