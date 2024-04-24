@@ -6,9 +6,22 @@ pandas
 python-dotenv
 black
 dill
+dnspython
 imblearn
 xgboost
 scipy
 evidently
 PyYAML
+fastapi
+httptools
+imblearn
+mypy-boto3-s3
+pip-chill
+python-multipart
+types-s3transfer
+neuro-mf
+uvicorn
+watchfiles
+websockets
+wincertstore
 -e .
